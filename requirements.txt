@@ -1,0 +1,6 @@
+TO RUN THIS PROJECT WE HAVE TO INSTALL THIS REQUIRMENTS
+
+--flask
+--gunicorn
+--sklearn
+--pandas
