@@ -72,7 +72,7 @@ then open the folder and enter into the terminal or Code editor what ever we wan
  Pip install pandas
 ```
 
-## Vertual environment should be created
+## NOTE: Vertual environment should be created
 
 ### After installing those Libraies,then in the Terminal use command :
 ```bash
